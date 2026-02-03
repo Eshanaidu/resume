@@ -58,9 +58,9 @@ const siteConfig = {
       description: ['Brief description of your focus or thesis'],
     },
     {
-      institution: 'Another Institution',
-      degree: 'Another Degree or Certificate',
-      year: 'YYYY–YYYY',
+      institution: 'Delhi Public Scool',
+      degree: 'Commerce w/ applied math',
+      year: '2023-2025',
       image: getAsset('images/education/placeholder.png'),
       description: ['Key topics or skills learned'],
     },
