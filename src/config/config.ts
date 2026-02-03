@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Esha Naidu',
     title: 'Christ University, Banerghatta Road Campus',
-    image: getAsset('images/profile.png'), // Customize or replace with your profile image
+    image: getAsset('images/Esha Naidu - passport size photo-2.jpg'), // Customize or replace with your profile image
     description:
       'I am currently studying Economics with Data Science at the undergraduate level, with academic and practical interests spanning unemployment, market structures, platform pricing, and business strategy. I focus on building data-backed economic analyses through coursework, research projects, and applied case studies that connect theory with real-world outcomes.' +
       '\n' +
@@ -148,7 +148,7 @@ const siteConfig = {
   ],
 
   contact: {
-    email: 'your.email@example.com',
+    email: 'enaidu06@gmail.com',
     linkedin: 'https://www.linkedin.com/in/your-linkedin/',
     github: 'https://github.com/your-username',
     googleScholar: 'https://scholar.google.com/citations?user=YOURID',
