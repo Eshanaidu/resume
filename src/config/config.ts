@@ -6,15 +6,15 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Put your name inside the quote',
-    title: 'Your Title | Your Role',
+    name: 'Esha Naidu',
+    title: 'Christ University, Banerghatta Road Campus',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I am currently studying Economics with Data Science at the undergraduate level, with academic and practical interests spanning unemployment, market structures, platform pricing, and business strategy. I focus on building data-backed economic analyses through coursework, research projects, and applied case studies that connect theory with real-world outcomes.' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'I am an undergraduate student of Economics with Data Science, with a strong focus on using data to understand real-world economic and business problems. My interests include labor markets, pricing strategies, and applied microeconomics, and I actively work on projects that translate economic theory into practical, evidence-based insights.' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'I bring together experience in data-driven economic analysis, policy research, leadership roles, and entrepreneurship. My work spans applied projects, competitive simulations, editorial initiatives, and mentoring, reflecting a strong ability to translate economic theory into real-world outcomes.' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
     tagline: 'Add a concise personal tagline here.',
