@@ -17,8 +17,8 @@ const siteConfig = {
       'I bring together experience in data-driven economic analysis, policy research, leadership roles, and entrepreneurship. My work spans applied projects, competitive simulations, editorial initiatives, and mentoring, reflecting a strong ability to translate economic theory into real-world outcomes.' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    tagline: 'Work Hard, Play Hard.',
+    location: 'Bangalore, India',
   },
 
   seo: {
@@ -26,7 +26,7 @@ const siteConfig = {
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Your Role', 'Your Focus', 'Your Interest', 'Builder'],
+  animatedText: ['Student', 'Economics', 'Entrepreneurship', 'Research Enthusiast'],
 
   navigation: [
     { name: 'Home', url: '/' },
@@ -51,9 +51,9 @@ const siteConfig = {
 
   education: [
     {
-      institution: 'Your Institution',
-      degree: 'Your Degree',
-      year: 'YYYY–YYYY',
+      institution: 'Christ University',
+      degree: 'BSC Economics with DS',
+      year: '2025-2028',
       image: getAsset('images/education/placeholder.png'),
       description: ['Brief description of your focus or thesis'],
     },
@@ -149,7 +149,7 @@ const siteConfig = {
 
   contact: {
     email: 'enaidu06@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/your-linkedin/',
+    linkedin: 'https://www.linkedin.com/in/esha-naidu-47020536b/',
     github: 'https://github.com/your-username',
     googleScholar: 'https://scholar.google.com/citations?user=YOURID',
     orcid: 'https://orcid.org/0000-0000-0000-0000',
